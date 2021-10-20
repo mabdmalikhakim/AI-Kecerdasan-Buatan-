@@ -1,0 +1,2 @@
+# AI
+Repository Kecerdasan Buatan
