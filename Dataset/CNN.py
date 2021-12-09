@@ -101,7 +101,7 @@ print(q_pred)
 if q_pred <= 0.5:
     target = 'Jeruk Nipis'
 else:
-    target = 'Seledri'
+    target = 'Belimbing'
 
 text = "{}".format(target)
 cv2.putText(output, text, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
